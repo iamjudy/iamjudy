@@ -13,7 +13,7 @@
     <a href="mailto:ctchanjudy@gmail.com">
         <img src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail&logoColor=white" alt="e-mail">
     </a>
-    <a href="[https://www.kaggle.com/wervlad](https://www.kaggle.com/judychan)">
+    <a href="https://www.kaggle.com/judychan">
         <img src="https://img.shields.io/badge/Kaggle-blue?style=flat-square&logo=kaggle" alt="Kaggle">
     </a>
 </p>
