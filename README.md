@@ -7,7 +7,7 @@
         Currently learning to walk in data field.<br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
-    <a href="https://www.linkedin.com/in/wervlad">
+    <a href="https://www.linkedin.com/in/chuting-judychan/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
     <a href="mailto:ctchanjudy@gmail.com">
